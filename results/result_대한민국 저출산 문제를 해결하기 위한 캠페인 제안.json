@@ -1,0 +1,46 @@
+[
+  {
+    "title": "대한민국 저출산 문제",
+    "content": [
+        "1. 출산율의 감소",
+        "2. 고령화 사회 문제",
+        "3. 인구 감소로 인한 경제적 영향",
+        "4. 사회적 공헌 부족",
+        "5. 가족의 사회적 지원 부족"
+    ],
+    "prompt": "sad family, old people, small family"
+  },
+  {
+    "title": "캠페인 주제 선택",
+    "content": [
+        "1. 출산 장려",
+        "2. 가족 지원 정책 강화",
+        "3. 청소년 성교육 강화",
+        "4. 경제적 혜택 제공",
+        "5. 사회적 기업의 참여"
+    ],
+    "prompt": "children, playing in garden, money, family"
+  },
+  {
+    "title": "출산 장려",
+    "content": [
+        "1. 육아휴직 제도 개선",
+        "2. 보육시설 확충",
+        "3. 출산 관련 정보 제공",
+        "4. 출산 후 복귀를 돕는 프로그램 개발",
+        "5. 생명보험 혜택 강화"
+    ],
+    "prompt": "parents with baby, kindergarten, pregnant, mother"
+  },
+  {
+    "title": "가족 지원 정책 강화",
+    "content": [
+        "1. 주택 공급 정책 개선",
+        "2. 국공립 어린이집 확대",
+        "3. 교육 지원 프로그램 신설",
+        "4. 가족 세율 혜택 확대",
+        "5. 가정 양육지원 서비스 강화"
+    ],
+    "prompt": "house, kindergarten, school, tax, baby care service"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "여자친구를 사귀는 방법",
+    "content": [
+        "1. 관심을 표현하기",
+        "2. 전화번호 또는 SNS 계정 얻기",
+        "3. 첫 데이트 신중하게 계획하기",
+        "4. 공통 관심사 찾기",
+        "5. 서로의 기분과 감정을 이해하기"
+    ],
+    "prompt": "couple, phone numbers, coffee shop, common interests, empathy"
+  },
+  {
+    "title": "관심을 표현하기",
+    "content": [
+        "1. 친절한 웃음과 몸짓",
+        "2. 진심어린 칭찬",
+        "3. 호기심을 가지고 이야기 나누기",
+        "4. 소소한 선물 주기",
+        "5. 서로에 대한 결과 피드백 공유"
+    ],
+    "prompt": "smiling, compliment, conversation, gift, honest feedback"
+  },
+  {
+    "title": "전화번호 또는 SNS 계정 얻기",
+    "content": [
+        "1. 자연스러운 대화를 이어갈 수 있는 기회 찾기",
+        "2. 기억에 남는 개인적인 이야기 주제 활용",
+        "3. 친절하게 계정을 교환하고 싶다는 의사 표시",
+        "4. 서로의 가장 자주 사용하는 메신저 공유",
+        "5. 연락처를 얻은 후 적절한 시기에 소통 시작"
+    ],
+    "prompt": "opportunity, memorable, conversation, exchanging contacts, messenger"
+  },
+  {
+    "title": "첫 데이트 신중하게 계획하기",
+    "content": [
+        "1. 두 사람이 즐길 수 있는 장소 선택",
+        "2. 일정을 잘 조율하고 시간에 맞추기",
+        "3. 데이트 활동을 고른 후 기억에 남도록 노력",
+        "4. 데이트 중 계획 및 이야기를 재미있게 이어가기",
+        "5. 너무 긴장되지 않으면서 사귀기에 적합한 분위기 창출"
+    ],
+    "prompt": "location, scheduling, activities, fun conversations, relaxed atmosphere"
+  },
+  {
+    "title": "공통 관심사 찾기",
+    "content": [
+        "1. 취미나 즐겨하는 활동 대화를 통해 이해",
+        "2. 함께 즐길 수 있는 공통된 분야 발견",
+        "3. 새로운 경험을 함께 쌓아가기",
+        "4. 서로의 관심사를 공유하며 관계를 발전시키기",
+        "5. 아무것도 아닌 일상이야기에도 진심을 담아 소통"
+    ],
+    "prompt": "hobbies, common interests, new experiences, sharing, daily conversations"
+  }
+]
